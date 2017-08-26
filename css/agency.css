@@ -897,3 +897,19 @@ fieldset {
   border="1";
   align="center";
 }
+
+#iframesite{
+  display: block;
+ width: 850px;
+ height: 500px;
+ margin: 0 auto;
+ border: 0;
+}
+
+#iframeapp{
+  display: block;
+ width: 550px;
+ height: 800px;
+ margin: 0 auto;
+ border: 0;
+}
